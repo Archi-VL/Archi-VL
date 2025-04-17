@@ -19,8 +19,6 @@
 
 <a href="http://www.github.com/Archi-VL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Archi-VL&stroke=6366f1&background=000000&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/Archi-VL"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Archi-VL&bg_color=000000&color=6366f1&line=6366f1&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Archi-VL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archi-VL&langs_count=10&title_color=a855f7&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
