@@ -2,8 +2,6 @@
 -----------------------------------
 𝑴𝒐𝒔𝒕 𝒂𝒓𝒆 𝒘𝒉𝒆𝒓𝒆 𝒊𝒕'𝒔 𝒆𝒂𝒔𝒚, 𝒃𝒖𝒕 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒂𝒓𝒆 𝒘𝒉𝒆𝒓𝒆 𝒊𝒕'𝒔 𝒉𝒂𝒓𝒅
 
-𝑰 𝒔𝒕𝒂𝒓𝒕𝒆𝒅 𝒘𝒊𝒕𝒉 𝑪 𝒂𝒏𝒅 𝒊'𝒍𝒍 𝒆𝒏𝒅 𝒘𝒊𝒕𝒉 𝒊𝒕
-
 ### Skills:
 
 <p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
